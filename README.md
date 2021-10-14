@@ -1,2 +1,2 @@
 # wado
-with azure devop
+with azure devop and a side of test
